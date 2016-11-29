@@ -1,0 +1,35 @@
+.Member {
+  padding: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  .Member {
+    float: left;
+    width: 75%;
+  }
+}
+
+.Member-image {
+  float: left;
+}
+
+.Member-detail {
+  float: left;
+  text-align: left;
+  padding: 0 1rem;
+}
+
+.Member-detail h2 {
+  margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .Repositories {
+    float: left;
+    width: 50%;
+  }
+  .Organizations {
+    float: left;
+    width: 50%;
+  }
+}

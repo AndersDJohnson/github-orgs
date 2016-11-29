@@ -1,0 +1,21 @@
+.Organization {
+  margin: 1rem 0;
+}
+
+.Organization-header {
+  padding: 1rem;
+}
+
+.Organization-image {
+  float: left;
+}
+
+.Organization-detail {
+  float: left;
+  text-align: left;
+  padding: 1rem;
+}
+
+.Organization-detail h1 {
+  margin: 0;
+}

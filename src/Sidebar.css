@@ -1,0 +1,9 @@
+.Sidebar {
+}
+
+@media screen and (min-width: 768px) {
+  .Sidebar {
+    float: left;
+    width: 25%;
+  }
+}
